@@ -1,0 +1,16 @@
+{
+  "name": "mailing-run-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex / KATT <alex@tolahq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mailing-core": "^0.9.12",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "mailing": "^0.9.12"
+  }
+}
