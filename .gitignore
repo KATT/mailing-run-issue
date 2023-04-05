@@ -18,3 +18,5 @@ prisma/_sqlite/migrations
 *.swp
 *.bak
 .eslintcache
+
+.mailing
