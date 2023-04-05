@@ -1,6 +1,6 @@
 import React from "react";
 import Welcome from "../Welcome";
 
-export function preview() {
+module.exports['preview email'] = () => {
   return <Welcome includeUnsubscribe />;
 }
